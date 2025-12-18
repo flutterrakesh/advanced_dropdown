@@ -1,3 +1,7 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Initial release
+- Advanced dropdown with overlay support
+- Searchable dropdown
+- Multi-select dropdown with chips
+- Fully customizable UI

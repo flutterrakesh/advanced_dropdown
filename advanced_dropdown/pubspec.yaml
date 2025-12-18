@@ -1,7 +1,9 @@
 name: advanced_dropdown
-description: "A new Flutter package project."
+description: "A customizable advanced dropdown Flutter package."
 version: 0.0.1
-homepage:
+homepage: https://github.com/flutterrakesh/advanced_dropdown.git
+repository: https://github.com/flutterrakesh/advanced_dropdown.git
+issue_tracker: https://github.com/flutterrakesh/advanced_dropdown.git/issues
 
 environment:
   sdk: ^3.9.2
